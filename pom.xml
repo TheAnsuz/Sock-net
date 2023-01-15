@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>dev.amrv.net</groupId>
     <artifactId>socknet</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <description>
         A framework intended to make java's sockets connection easier to handle for programmers.
         The proyect is in beta so most of the content is subject to modifications in future releases
